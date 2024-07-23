@@ -1,0 +1,19 @@
+/* src/components/Filter.css */
+
+.filter-container {
+    margin-bottom: 20px;
+  }
+  
+  .filter-title {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .filter-select {
+    margin-bottom: 20px;
+  }
+  
+  .filter-slider {
+    margin-bottom: 20px;
+  }
+  
