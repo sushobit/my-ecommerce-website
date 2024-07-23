@@ -13,7 +13,9 @@ Welcome to the React E-commerce Website  This project is an interactive and inno
 - **Smooth Animations**: Uses `framer-motion` for beautiful animations and transitions.
 - **Beautiful Code**: Emphasizes interactive, innovative, and aesthetically pleasing code.
 
-## Deployment Link (e-commerce-website-sushobhit)[https://ecommerce-website-sushobhit.vercel.app/]
+
+## Deployment Link [e-commerce-website-sushobhit](https://ecommerce-website-sushobhit.vercel.app/)
+
 
 ## Video 
 
